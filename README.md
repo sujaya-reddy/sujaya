@@ -1,2 +1,2 @@
 # sujaya
-a new repository 
+a new repository.for software engineering subject
